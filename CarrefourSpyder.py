@@ -37,5 +37,5 @@ def carrefourspider(url):
    carrefourspider(url)
   else:
     return
-#zaaaaaaaaaaaaaaaaaa
+#zaaaaaaaaaaaaaaaaaaasdsafsdfasf
 carrefourspider('https://www.carrefoursa.com/bulasik-makinesi-deterjanlari/c/1614')
